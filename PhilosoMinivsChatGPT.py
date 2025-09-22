@@ -1,5 +1,5 @@
 """
-从"小猫跑步"到智能对话：PhilosoMini与ChatGPT的天壤之别
+从"小猫跑步"到大语言模型对话：PhilosoMini与ChatGPT的天壤之别
 完整对比分析系统
 
 本文件包含：
