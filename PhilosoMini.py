@@ -5,7 +5,7 @@ import numpy as np
 import matplotlib.pyplot as plt
 from collections import defaultdict
 
-print("🧠 PhilosoMini: 探索智能的最小完整单元\n")
+print("🧠 PhilosoMini: 探索人工智能的最小完整单元\n")
 print("=" * 60)
 
 
