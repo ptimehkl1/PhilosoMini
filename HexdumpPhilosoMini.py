@@ -4,7 +4,7 @@ import torch.optim as optim
 import numpy as np
 import matplotlib.pyplot as plt
 from collections import defaultdict
-import struct  # 用于浮点数到十六进制的转换
+import struct  # 浮点数到十六进制的转换
 
 
 # 定义之前的PhilosoMini模型和训练/数据准备函数
